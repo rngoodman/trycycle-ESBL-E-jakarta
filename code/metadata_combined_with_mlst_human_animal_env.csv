@@ -1,0 +1,272 @@
+"","sample_name","sector","sector_colour","site","SiteCharacteristic","ST","Number","Location","S","E","Latitude","Longitude"
+"1","211_S1","Human","#336699","PKM Jatinegara","02_Community","38",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"2","212_S2","Human","#336699","PKM Jatinegara","02_Community","206",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"3","214_S3","Human","#336699","PKM Jatinegara","02_Community","69",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"4","216_S5","Human","#336699","PKM Jatinegara","02_Community","93",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"5","217_S6","Human","#336699","PKM Jatinegara","02_Community","196",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"6","218_S7","Human","#336699","PKM Jatinegara","02_Community","4450",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"7","219_S8","Human","#336699","PKM Jatinegara","02_Community","9586",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"8","220_S9","Human","#336699","PKM Jatinegara","02_Community","-",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"9","221_S10","Human","#336699","PKM Jatinegara","02_Community","131",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"10","222_S11","Human","#336699","PKM Jatinegara","02_Community","38",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"11","223_S12","Human","#336699","PKM Jatinegara","02_Community","155",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"12","224_S13","Human","#336699","PKM Jatinegara","02_Community","3525",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"13","225_S14","Human","#336699","PKM Jatinegara","02_Community","127",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"14","226_S15","Human","#336699","PKM Jatinegara","02_Community","44",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"15","230_S16","Human","#336699","PKM Jatinegara","02_Community","7584",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"16","231_S17","Human","#336699","PKM Jatinegara","02_Community","127",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"17","233_S18","Human","#336699","PKM Jatinegara","02_Community","3268",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"18","234_S19","Human","#336699","PKM Jatinegara","02_Community","165",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"19","235_S20","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"20","236_S21","Human","#336699","RSCM","01_Hospital","405",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"21","238_S22","Human","#336699","RSCM","01_Hospital","73",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"22","239_S23","Human","#336699","RSCM","01_Hospital","69",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"23","240_S24","Human","#336699","RSCM","01_Hospital","405",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"24","A1","Animal","#9900ff","Pasar Sawah Barat","03_Market","2973",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"25","A1_S1","Human","#336699","RSCM","01_Hospital","38",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"26","A10","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","57",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"27","A11","Animal","#9900ff","RPHU Rawa Kepiting","03_Market","-",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"28","A12","Animal","#9900ff","RPHU Rawa Kepiting","03_Market","189",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"29","A13","Animal","#9900ff","Pasar Pondok Bambu","03_Market","155",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"30","A14","Animal","#9900ff","Pasar Ciplak","03_Market","752",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"31","A15","Animal","#9900ff","Pasar Deprok","03_Market","2711",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"32","A17","Animal","#9900ff","Pasar Sawah Barat","03_Market","752",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"33","A18","Animal","#9900ff","Pasar Sawah Barat","03_Market","155",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"34","A19","Animal","#9900ff","Pasar Sawah Barat","03_Market","48",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"35","A190","Animal","#9900ff","Pasar Pondok Bambu","03_Market","10",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"36","A2","Animal","#9900ff","Pasar Pondok Bambu","03_Market","6854",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"37","A2_S2","Human","#336699","RSCM","01_Hospital","167",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"38","A20","Animal","#9900ff","Pasar Ciplak","03_Market","1485",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"39","A21","Animal","#9900ff","Pasar Deprok","03_Market","2607",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"40","A22","Animal","#9900ff","Pasar Deprok","03_Market","48",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"41","A23","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","361",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"42","A24","Animal","#9900ff","RPHU Rawa Kepiting","03_Market","206",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"43","A25","Animal","#9900ff","Pasar Sawah Barat","03_Market","2732",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"44","A26","Animal","#9900ff","Pasar Ciplak","03_Market","162",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"45","A27","Animal","#9900ff","Pasar Ciplak","03_Market","1196",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"46","A28","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","2036",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"47","A29","Animal","#9900ff","Pasar Sawah Barat","03_Market","",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"48","A3","Animal","#9900ff","Pasar Pondok Bambu","03_Market","189",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"49","A3_S3","Human","#336699","RSCM","01_Hospital","69",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"50","A30","Animal","#9900ff","Pasar Sawah Barat","03_Market","58",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"51","A31","Animal","#9900ff","Pasar Ciplak","03_Market","1485",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"52","A32","Animal","#9900ff","Pasar Ciplak","03_Market","-",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"53","A33","Animal","#9900ff","Pasar Deprok","03_Market","5416",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"54","A34","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","2036",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"55","A35","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","1011",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"56","A36","Animal","#9900ff","RPHU Rawa Kepiting","04_Slaughtherhouse","189",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"57","A37","Animal","#9900ff","RPHU Rawa Kepiting","04_Slaughtherhouse","2973",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"58","A38","Animal","#9900ff","Pasar Sawah Barat","03_Market","7584",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"59","A39","Animal","#9900ff","Pasar Sawah Barat","03_Market","533",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"60","A4","Animal","#9900ff","Pasar Deprok","03_Market","189",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"61","A4_S4","Human","#336699","RSCM","01_Hospital","10",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"62","A40","Animal","#9900ff","Pasar Pondok Bambu","03_Market","155",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"63","A41","Animal","#9900ff","Pasar Pondok Bambu","03_Market","155",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"64","A42","Animal","#9900ff","Pasar Pondok Bambu","03_Market","155",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"65","A43","Animal","#9900ff","Pasar Ciplak","03_Market","9022",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"66","A44","Animal","#9900ff","Pasar Deprok","03_Market","-",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"67","A45","Animal","#9900ff","Pasar Deprok","03_Market","43",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"68","A46","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","752",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"69","A47","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","533",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"70","A48","Animal","#9900ff","RPHU Rawa Kepiting","04_Slaughtherhouse","3998",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"71","A49","Animal","#9900ff","Pasar Pondok Bambu","03_Market","69",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"72","A5","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","752",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"73","A5_S5","Human","#336699","RSCM","01_Hospital","410",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"74","A50","Animal","#9900ff","Pasar Ciplak","03_Market","155",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"75","A51","Animal","#9900ff","Pasar Pondok Bambu","03_Market","4937",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"76","A52","Animal","#9900ff","Pasar Pondok Bambu","03_Market","-",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"77","A53","Animal","#9900ff","RPHU Rawa Kepiting","04_Slaughtherhouse","189",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"78","A54","Animal","#9900ff","Pasar Ciplak","03_Market","8070",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"79","A55","Animal","#9900ff","Pasar Ciplak","03_Market","1246",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"80","A56","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","57",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"81","A57","Animal","#9900ff","Pasar Deprok","03_Market","48",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"82","A58","Animal","#9900ff","Pasar Pondok Bambu","03_Market","648",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"83","A59","Animal","#9900ff","Pasar Deprok","03_Market","2179",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"84","A6","Animal","#9900ff","RPH Pulogadung","04_Slaughtherhouse","6854",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"85","A6_S6","Human","#336699","RSCM","01_Hospital","117",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"86","A7","Animal","#9900ff","RPHU Rawa Kepiting","03_Market","4773",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"87","A8","Animal","#9900ff","RPHU Rawa Kepiting","03_Market","6448",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"88","A9","Animal","#9900ff","Pasar Deprok","03_Market","1011",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"89","B1_S7","Human","#336699","RSCM","01_Hospital","720",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"90","B2_S8","Human","#336699","RSCM","01_Hospital","3033",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"91","B3_S9","Human","#336699","RSCM","01_Hospital","648",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"92","B4_S10","Human","#336699","RSP","01_Hospital","38",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"93","B5_S11","Human","#336699","RSP","01_Hospital","-",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"94","B6_S12","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"95","C1_S13","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"96","C2_S14","Human","#336699","RSP","01_Hospital","44",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"97","C3_S15","Human","#336699","RSP","01_Hospital","354",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"98","C4_S16","Human","#336699","RSP","01_Hospital","405",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"99","C5_S17","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"100","C6_S18","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"101","D1_S19","Human","#336699","RSP","01_Hospital","",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"102","D2_S20","Human","#336699","RSP","01_Hospital","1158",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"103","D3_S21","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"104","D4_S22","Human","#336699","RSP","01_Hospital","131",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"105","D5_S23","Human","#336699","RSP","01_Hospital","38",3,"RSP",NA,NA,-6.12492039905858,106.917298311338
+"106","D6_S24","Human","#336699","PKM Jatinegara","02_Community","58",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"107","E100","Environment","#339900","Kali Molek","05_Upstream","10",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"108","E101","Environment","#339900","Kali Sunter","06_Midstream","15460",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"109","E102","Environment","#339900","Kali Sunter","06_Midstream","69",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"110","E103","Environment","#339900","Kali Sunter","06_Midstream","359",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"111","E104","Environment","#339900","Kali Sunter","06_Midstream","4380",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"112","E105","Environment","#339900","Pasar Sawah Barat","03_Market","10",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"113","E106","Environment","#339900","Pasar Sawah Barat","03_Market","10",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"114","E107","Environment","#339900","Kali Sindang","07_Downstream","3052",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"115","E108","Environment","#339900","Cilincing","07_Downstream","398",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"116","E109","Environment","#339900","Cilincing","07_Downstream","410",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"117","E110","Environment","#339900","BKT","07_Downstream","58",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"118","E111","Environment","#339900","BKT","07_Downstream","2165",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"119","E112","Environment","#339900","BKT","07_Downstream","6707",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"120","E113","Environment","#339900","BKT","07_Downstream","38",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"121","E114","Environment","#339900","Pasar Deprok","03_Market","155",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"122","E115","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","410",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"123","E116","Environment","#339900","Kali Molek","05_Upstream","212",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"124","E117","Environment","#339900","Kranggan","05_Upstream","38",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"125","E118","Environment","#339900","Kranggan","05_Upstream","167",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"126","E119","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"127","E120","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"128","E121","Environment","#339900","Pasar Pondok Bambu","03_Market","-",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"129","E122","Environment","#339900","Pasar Pondok Bambu","03_Market","752",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"130","E123","Environment","#339900","Pasar Sawah Barat","03_Market","1431",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"131","E124","Environment","#339900","Kali Sindang","07_Downstream","410",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"132","E125","Environment","#339900","Cilincing","07_Downstream","1722",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"133","E126","Environment","#339900","Cilincing","07_Downstream","1431",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"134","E127","Environment","#339900","Cilincing","07_Downstream","10",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"135","E128","Environment","#339900","BKT","07_Downstream","410",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"136","E129","Environment","#339900","BKT","07_Downstream","410",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"137","E130","Environment","#339900","BKT","07_Downstream","127",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"138","E131","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","117",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"139","E132","Environment","#339900","Pasar Deprok","03_Market","191",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"140","E133","Environment","#339900","Pasar Ciplak","03_Market","10",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"141","E134","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","405",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"142","E135","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","410",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"143","E136","Environment","#339900","Kali Molek","05_Upstream","38",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"144","E137","Environment","#339900","Kali Molek","05_Upstream","1201",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"145","E138","Environment","#339900","Kali Sunter","06_Midstream","-",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"146","E139","Environment","#339900","Kranggan","05_Upstream","410",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"147","E140","Environment","#339900","Kranggan","05_Upstream","-",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"148","E141","Environment","#339900","Kranggan","05_Upstream","43",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"149","E142","Environment","#339900","Pasar Pondok Bambu","03_Market","2313",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"150","E143","Environment","#339900","Kali Sindang","07_Downstream","73",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"151","E144","Environment","#339900","Kali Sindang","07_Downstream","410",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"152","E145","Environment","#339900","Kali Sindang","07_Downstream","117",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"153","E146","Environment","#339900","Kali Sindang","07_Downstream","533",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"154","E147","Environment","#339900","BKT","07_Downstream","405",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"155","E148","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","3856",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"156","E149","Environment","#339900","Pasar Deprok","03_Market","2541",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"157","E151","Environment","#339900","Kali Molek","05_Upstream","1201",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"158","E152","Environment","#339900","Kali Molek","05_Upstream","58",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"159","E153","Environment","#339900","Kali Molek","05_Upstream","38",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"160","E154","Environment","#339900","Kali Molek","05_Upstream","6707",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"161","E155","Environment","#339900","Kali Molek","05_Upstream","1201",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"162","E156","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"163","E157","Environment","#339900","Kranggan","05_Upstream","11146",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"164","E158","Environment","#339900","Pasar Sawah Barat","03_Market","43",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"165","E159","Environment","#339900","Kali Sindang","07_Downstream","162",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"166","E160","Environment","#339900","Kali Sindang","07_Downstream","-",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"167","E161","Environment","#339900","Kali Sindang","07_Downstream","-",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"168","E162","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","7176",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"169","E163","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","3998",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"170","E165","Environment","#339900","Pasar Ciplak","03_Market","43",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"171","E166","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","8676",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"172","E167","Environment","#339900","Outlet Persahabatan","09_Hospital wasterwater outlet","205",17,"Outlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"173","E168","Environment","#339900","Outlet Persahabatan","09_Hospital wasterwater outlet","1266",17,"Outlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"174","E169","Environment","#339900","Kali Molek","05_Upstream","191",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"175","E170","Environment","#339900","Kali Molek","05_Upstream","2170",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"176","E171","Environment","#339900","Kranggan","05_Upstream","69",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"177","E172","Environment","#339900","Kranggan","05_Upstream","3580",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"178","E173","Environment","#339900","Kranggan","05_Upstream","746",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"179","E174","Environment","#339900","Pasar Pondok Bambu","03_Market","58",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"180","E175","Environment","#339900","Pasar Sawah Barat","03_Market","1673",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"181","E176","Environment","#339900","Cilincing","07_Downstream","12780",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"182","E177","Environment","#339900","Cilincing","07_Downstream","38",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"183","E178","Environment","#339900","Cilincing","07_Downstream","5276",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"184","E179","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","1426",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"185","E180","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","4663",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"186","E181","Environment","#339900","Pasar Deprok","03_Market","-",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"187","E182","Environment","#339900","Pasar Ciplak","03_Market","2171",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"188","E183","Environment","#339900","Pasar Ciplak","03_Market","10",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"189","E184","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","410",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"190","E185","Environment","#339900","Outlet Persahabatan","09_Hospital wasterwater outlet","155",17,"Outlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"191","E186","Environment","#339900","Kali Molek","05_Upstream","410",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"192","E187","Environment","#339900","Pasar Ciplak","03_Market","155",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"193","E188","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","410",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"194","E189","Environment","#339900","Inlet Persahabatan","08_Hospital wastewater inlet","48",16,"Inlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"195","E60","Environment","#339900","Kali Molek","05_Upstream","48",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"196","E61","Environment","#339900","Kali Sunter","06_Midstream","8676",5,"Kali Sunter","S 06'19'04.0""","E 106'55'17.2",-6.31777777777778,106.921444444444
+"197","E62","Environment","#339900","Kranggan","05_Upstream","410",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"198","E63","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"199","E64","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"200","E65","Environment","#339900","Pasar Sawah Barat","03_Market","101",8,"Pasar Sawah Barat","S 06'14'39.1""","E 106'54'23.6",-6.24419444444444,106.93
+"201","E66","Environment","#339900","Kali Sindang","07_Downstream","155",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"202","E67","Environment","#339900","Cilincing","07_Downstream","6707",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"203","E68","Environment","#339900","BKT","07_Downstream","44",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"204","E69","Environment","#339900","BKT","07_Downstream","2562",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"205","E70","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","10338",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"206","E71","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","48",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"207","E72","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","1285",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"208","E73","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","6707",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"209","E74","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","155",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"210","E75","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","-",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"211","E76","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","196",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"212","E77","Environment","#339900","Pasar Ciplak","03_Market","752",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"213","E78","Environment","#339900","Kali Molek","05_Upstream","2607",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"214","E79","Environment","#339900","Kali Molek","05_Upstream","38",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"215","E80","Environment","#339900","Kali Molek","05_Upstream","101",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"216","E81","Environment","#339900","Kranggan","05_Upstream","10",6,"Kranggan","S 06'21'56.5""","E 106'54'51.2",-6.36569444444444,106.914222222222
+"217","E82","Environment","#339900","Pasar Pondok Bambu","03_Market","744",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"218","E83","Environment","#339900","Pasar Pondok Bambu","03_Market","155",7,"Pasar Pondok Bambu","S 06'14'17.9""","E 106'54'08.9",-6.23830555555556,106.902472222222
+"219","E84","Environment","#339900","Kali Sindang","07_Downstream","43",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"220","E85","Environment","#339900","Kali Sindang","07_Downstream","11146",9,"Kali Sindang","S 06'06'48.3""","E 106'53'48.7",-6.11341666666667,106.896861111111
+"221","E86","Environment","#339900","Cilincing","07_Downstream","1266",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"222","E87","Environment","#339900","Cilincing","07_Downstream","752",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"223","E88","Environment","#339900","Cilincing","07_Downstream","11749",10,"Cilincing","S 06'06'55.4""","E 106'56'26.0",-6.11538888888889,106.940555555556
+"224","E89","Environment","#339900","BKT","07_Downstream","1722",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"225","E90","Environment","#339900","BKT","07_Downstream","69",11,"BKT","S 06'06'38.1""","E 106'58'08.8",-6.11058333333333,106.969111111111
+"226","E91","Environment","#339900","RPHU Rawa Kepiting","04_Slaughtherhouse","156",12,"RPHU Rawa Kepiting","S 06'11'42.0""","E 106'55'15.2",-6.195,106.920888888889
+"227","E92","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","58",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"228","E93","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","410",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"229","E94","Environment","#339900","RPH Pulogadung","04_Slaughtherhouse","1011",13,"RPH Pulogadung","S 06'11'06.1""","E 106'54'16.1",-6.18502777777778,106.904472222222
+"230","E95","Environment","#339900","Pasar Deprok","03_Market","752",14,"Pasar Deprok","S 06'13'02.4""","E 106'53'41.5",-6.21733333333333,106.894861111111
+"231","E96","Environment","#339900","Pasar Ciplak","03_Market","10",15,"Pasar Ciplak","S 06'14'09.8""","E 106'52'52.7",-6.23605555555556,106.881305555556
+"232","E97","Environment","#339900","Outlet Persahabatan","09_Hospital wasterwater outlet","6448",17,"Outlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"233","E98","Environment","#339900","Outlet Persahabatan","09_Hospital wasterwater outlet","43",17,"Outlet Persahabatan",NA,NA,-6.20229236018289,106.884989556476
+"234","E99","Environment","#339900","Kali Molek","05_Upstream","3580",4,"Kali Molek","S 06'17'04.0""","E 106'54'31.4",-6.28444444444444,106.908722222222
+"235","H193","Human","#336699","PKM Jatinegara","02_Community","58",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"236","H194","Human","#336699","PKM Jatinegara","02_Community","949",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"237","H195","Human","#336699","PKM Jatinegara","02_Community","2461",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"238","H196","Human","#336699","PKM Jatinegara","02_Community","155",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"239","H197","Human","#336699","PKM Jatinegara","02_Community","720",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"240","H198","Human","#336699","PKM Jatinegara","02_Community","88",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"241","H199","Human","#336699","PKM Jatinegara","02_Community","48",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"242","H200","Human","#336699","RSCM","01_Hospital","38",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"243","H202","Human","#336699","RSCM","01_Hospital","58",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"244","H203","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"245","H204","Human","#336699","RSCM","01_Hospital","",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"246","H205","Human","#336699","RSCM","01_Hospital","127",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"247","H206","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"248","H207","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"249","H208","Human","#336699","PKM Jatinegara","02_Community","",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"250","H209","Human","#336699","PKM Jatinegara","02_Community","2179",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"251","H210","Human","#336699","PKM Jatinegara","02_Community","2179",1,"PKM Jatinegara",NA,NA,-6.21381078545159,106.862431168809
+"252","H241_S1","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"253","H243_S3","Human","#336699","RSCM","01_Hospital","10",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"254","H244_S4","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"255","H246_S6","Human","#336699","RSCM","01_Hospital","127",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"256","H247_S7","Human","#336699","RSCM","01_Hospital","",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"257","H248_S8","Human","#336699","RSCM","01_Hospital","405",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"258","H250_S9","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"259","H252_S11","Human","#336699","RSCM","01_Hospital","69",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"260","H253_S12","Human","#336699","RSCM","01_Hospital","117",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"261","H254_S13","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"262","H256_S14","Human","#336699","RSCM","01_Hospital","1193",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"263","H258_S15","Human","#336699","RSCM","01_Hospital","7401",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"264","H260_S17","Human","#336699","RSCM","01_Hospital","405",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"265","H261_S18","Human","#336699","RSCM","01_Hospital","405",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"266","H262_S19","Human","#336699","RSCM","01_Hospital","767",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"267","H265_S20","Human","#336699","RSCM","01_Hospital","1193",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"268","H266_S21","Human","#336699","RSCM","01_Hospital","12",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"269","H268_S23","Human","#336699","RSCM","01_Hospital","683",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"270","H270_S24","Human","#336699","RSCM","01_Hospital","131",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744
+"271","H276_S22","Human","#336699","RSCM","01_Hospital","-",2,"RSCM",NA,NA,-6.19620738811018,106.847811790744

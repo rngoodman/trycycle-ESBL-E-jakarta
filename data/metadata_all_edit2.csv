@@ -1,0 +1,276 @@
+sample_name,sector,sector_colour,site,SiteCharacteristic,ST
+211_S1,Human,#336699,1.PKM Jatinegara,02_Community,38
+212_S2,Human,#336699,1.PKM Jatinegara,02_Community,206
+213_S4,Unknown,#000000,Unknown,Unknown,770
+214_S3,Human,#336699,1.PKM Jatinegara,02_Community,69
+216_S5,Human,#336699,1.PKM Jatinegara,02_Community,93
+217_S6,Human,#336699,1.PKM Jatinegara,02_Community,196
+218_S7,Human,#336699,1.PKM Jatinegara,02_Community,4450
+219_S8,Human,#336699,1.PKM Jatinegara,02_Community,9586
+220_S9,Human,#336699,1.PKM Jatinegara,02_Community,-
+221_S10,Human,#336699,1.PKM Jatinegara,02_Community,131
+222_S11,Human,#336699,1.PKM Jatinegara,02_Community,38
+223_S12,Human,#336699,1.PKM Jatinegara,02_Community,155
+224_S13,Human,#336699,1.PKM Jatinegara,02_Community,3525
+225_S14,Human,#336699,1.PKM Jatinegara,02_Community,127
+226_S15,Human,#336699,1.PKM Jatinegara,02_Community,44
+230_S16,Human,#336699,1.PKM Jatinegara,02_Community,7584
+231_S17,Human,#336699,1.PKM Jatinegara,02_Community,127
+233_S18,Human,#336699,1.PKM Jatinegara,02_Community,3268
+234_S19,Human,#336699,1.PKM Jatinegara,02_Community,165
+235_S20,Human,#336699,2.RSCM,01_Hospital,131
+236_S21,Human,#336699,2.RSCM,01_Hospital,405
+238_S22,Human,#336699,2.RSCM,01_Hospital,73
+239_S23,Human,#336699,2.RSCM,01_Hospital,69
+240_S24,Human,#336699,2.RSCM,01_Hospital,405
+A1,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,2973
+A1_S1,Human,#336699,2.RSCM,01_Hospital,38
+A10,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,57
+A11,Animal,#9900ff,12.RPHU Rawa Kepiting,03_Market,-
+A12,Animal,#9900ff,12.RPHU Rawa Kepiting,03_Market,189
+A13,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,155
+A14,Animal,#9900ff,15.Pasar Ciplak,03_Market,752
+A15,Animal,#9900ff,14.Pasar Deprok,03_Market,2711
+A17,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,752
+A18,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,155
+A19,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,48
+A190,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,10
+A2,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,6854
+A2_S2,Human,#336699,2.RSCM,01_Hospital,167
+A20,Animal,#9900ff,15.Pasar Ciplak,03_Market,1485
+A21,Animal,#9900ff,14.Pasar Deprok,03_Market,2607
+A22,Animal,#9900ff,14.Pasar Deprok,03_Market,48
+A23,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,361
+A24,Animal,#9900ff,12.RPHU Rawa Kepiting,03_Market,206
+A25,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,2732
+A26,Animal,#9900ff,15.Pasar Ciplak,03_Market,162
+A27,Animal,#9900ff,15.Pasar Ciplak,03_Market,1196
+A28,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,2036
+A29,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,
+A3,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,189
+A3_S3,Human,#336699,2.RSCM,01_Hospital,69
+A30,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,58
+A31,Animal,#9900ff,15.Pasar Ciplak,03_Market,1485
+A32,Animal,#9900ff,15.Pasar Ciplak,03_Market,-
+A33,Animal,#9900ff,14.Pasar Deprok,03_Market,5416
+A34,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,2036
+A35,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,1011
+A36,Animal,#9900ff,12.RPHU Rawa Kepiting,04_Slaughtherhouse,189
+A37,Animal,#9900ff,12.RPHU Rawa Kepiting,04_Slaughtherhouse,2973
+A38,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,7584
+A39,Animal,#9900ff,8.Pasar Sawah Barat,03_Market,533
+A4,Animal,#9900ff,14.Pasar Deprok,03_Market,189
+A4_S4,Human,#336699,2.RSCM,01_Hospital,10
+A40,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,155
+A41,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,155
+A42,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,155
+A43,Animal,#9900ff,15.Pasar Ciplak,03_Market,9022
+A44,Animal,#9900ff,14.Pasar Deprok,03_Market,-
+A45,Animal,#9900ff,14.Pasar Deprok,03_Market,43
+A46,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,752
+A47,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,533
+A48,Animal,#9900ff,12.RPHU Rawa Kepiting,04_Slaughtherhouse,3998
+A49,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,69
+A5,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,752
+A5_S5,Human,#336699,2.RSCM,01_Hospital,410
+A50,Animal,#9900ff,15.Pasar Ciplak,03_Market,155
+A51,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,4937
+A52,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,-
+A53,Animal,#9900ff,12.RPHU Rawa Kepiting,04_Slaughtherhouse,189
+A54,Animal,#9900ff,15.Pasar Ciplak,03_Market,8070
+A55,Animal,#9900ff,15.Pasar Ciplak,03_Market,1246
+A56,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,57
+A57,Animal,#9900ff,14.Pasar Deprok,03_Market,48
+A58,Animal,#9900ff,7.Pasar Pondok Bambu,03_Market,648
+A59,Animal,#9900ff,14.Pasar Deprok,03_Market,2179
+A6,Animal,#9900ff,13.RPH Pulogadung,04_Slaughtherhouse,6854
+A6_S6,Human,#336699,2.RSCM,01_Hospital,117
+A7,Animal,#9900ff,12.RPHU Rawa Kepiting,03_Market,4773
+A8,Animal,#9900ff,12.RPHU Rawa Kepiting,03_Market,6448
+A9,Animal,#9900ff,14.Pasar Deprok,03_Market,1011
+B1_S7,Human,#336699,2.RSCM,01_Hospital,720
+B2_S8,Human,#336699,2.RSCM,01_Hospital,3033
+B3_S9,Human,#336699,2.RSCM,01_Hospital,648
+B4_S10,Human,#336699,3.RSP,01_Hospital,38
+B5_S11,Human,#336699,3.RSP,01_Hospital,-
+B6_S12,Human,#336699,3.RSP,01_Hospital,131
+C1_S13,Human,#336699,3.RSP,01_Hospital,131
+C2_S14,Human,#336699,3.RSP,01_Hospital,44
+C3_S15,Human,#336699,3.RSP,01_Hospital,354
+C4_S16,Human,#336699,3.RSP,01_Hospital,405
+C5_S17,Human,#336699,3.RSP,01_Hospital,131
+C6_S18,Human,#336699,3.RSP,01_Hospital,131
+D1_S19,Human,#336699,3.RSP,01_Hospital,
+D2_S20,Human,#336699,3.RSP,01_Hospital,1158
+D3_S21,Human,#336699,3.RSP,01_Hospital,131
+D4_S22,Human,#336699,3.RSP,01_Hospital,131
+D5_S23,Human,#336699,3.RSP,01_Hospital,38
+D6_S24,Human,#336699,1.PKM Jatinegara,02_Community,58
+E100,Environment,#339900,4.Kali Molek,05_Upstream,10
+E101,Environment,#339900,5.Kali Sunter,06_Midstream,15460
+E102,Environment,#339900,5.Kali Sunter,06_Midstream,69
+E103,Environment,#339900,5.Kali Sunter,06_Midstream,359
+E104,Environment,#339900,5.Kali Sunter,06_Midstream,4380
+E105,Environment,#339900,8.Pasar Sawah Barat,03_Market,10
+E106,Environment,#339900,8.Pasar Sawah Barat,03_Market,10
+E107,Environment,#339900,9.Kali Sindang,07_Downstream,3052
+E108,Environment,#339900,10.Cilincing,07_Downstream,398
+E109,Environment,#339900,10.Cilincing,07_Downstream,410
+E110,Environment,#339900,11.BKT,07_Downstream,58
+E111,Environment,#339900,11.BKT,07_Downstream,2165
+E112,Environment,#339900,11.BKT,07_Downstream,6707
+E113,Environment,#339900,11.BKT,07_Downstream,38
+E114,Environment,#339900,14.Pasar Deprok,03_Market,155
+E115,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,410
+E116,Environment,#339900,4.Kali Molek,05_Upstream,212
+E117,Environment,#339900,6.Kranggan,05_Upstream,38
+E118,Environment,#339900,6.Kranggan,05_Upstream,167
+E119,Environment,#339900,6.Kranggan,05_Upstream,10
+E120,Environment,#339900,6.Kranggan,05_Upstream,10
+E121,Environment,#339900,7.Pasar Pondok Bambu,03_Market,-
+E122,Environment,#339900,7.Pasar Pondok Bambu,03_Market,752
+E123,Environment,#339900,8.Pasar Sawah Barat,03_Market,1431
+E124,Environment,#339900,9.Kali Sindang,07_Downstream,410
+E125,Environment,#339900,10.Cilincing,07_Downstream,1722
+E126,Environment,#339900,10.Cilincing,07_Downstream,1431
+E127,Environment,#339900,10.Cilincing,07_Downstream,10
+E128,Environment,#339900,11.BKT,07_Downstream,410
+E129,Environment,#339900,11.BKT,07_Downstream,410
+E130,Environment,#339900,11.BKT,07_Downstream,127
+E131,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,117
+E132,Environment,#339900,14.Pasar Deprok,03_Market,191
+E133,Environment,#339900,15.Pasar Ciplak,03_Market,10
+E134,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,405
+E135,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,410
+E136,Environment,#339900,4.Kali Molek,05_Upstream,38
+E137,Environment,#339900,4.Kali Molek,05_Upstream,1201
+E138,Environment,#339900,5.Kali Sunter,06_Midstream,-
+E139,Environment,#339900,6.Kranggan,05_Upstream,410
+E140,Environment,#339900,6.Kranggan,05_Upstream,-
+E141,Environment,#339900,6.Kranggan,05_Upstream,43
+E142,Environment,#339900,7.Pasar Pondok Bambu,03_Market,2313
+E143,Environment,#339900,9.Kali Sindang,07_Downstream,73
+E144,Environment,#339900,9.Kali Sindang,07_Downstream,410
+E145,Environment,#339900,9.Kali Sindang,07_Downstream,117
+E146,Environment,#339900,9.Kali Sindang,07_Downstream,533
+E147,Environment,#339900,11.BKT,07_Downstream,405
+E148,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,3856
+E149,Environment,#339900,14.Pasar Deprok,03_Market,2541
+E151,Environment,#339900,4.Kali Molek,05_Upstream,1201
+E152,Environment,#339900,4.Kali Molek,05_Upstream,58
+E153,Environment,#339900,4.Kali Molek,05_Upstream,38
+E154,Environment,#339900,4.Kali Molek,05_Upstream,6707
+E155,Environment,#339900,4.Kali Molek,05_Upstream,1201
+E156,Environment,#339900,6.Kranggan,05_Upstream,10
+E157,Environment,#339900,6.Kranggan,05_Upstream,11146
+E158,Environment,#339900,8.Pasar Sawah Barat,03_Market,43
+E159,Environment,#339900,9.Kali Sindang,07_Downstream,162
+E160,Environment,#339900,9.Kali Sindang,07_Downstream,-
+E161,Environment,#339900,9.Kali Sindang,07_Downstream,-
+E162,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,7176
+E163,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,3998
+E165,Environment,#339900,15.Pasar Ciplak,03_Market,43
+E166,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,8676
+E167,Environment,#339900,17.Outlet Persahabatan,09_Hospital wasterwater outlet,205
+E168,Environment,#339900,17.Outlet Persahabatan,09_Hospital wasterwater outlet,1266
+E169,Environment,#339900,4.Kali Molek,05_Upstream,191
+E170,Environment,#339900,4.Kali Molek,05_Upstream,2170
+E171,Environment,#339900,6.Kranggan,05_Upstream,69
+E172,Environment,#339900,6.Kranggan,05_Upstream,3580
+E173,Environment,#339900,6.Kranggan,05_Upstream,746
+E174,Environment,#339900,7.Pasar Pondok Bambu,03_Market,58
+E175,Environment,#339900,8.Pasar Sawah Barat,03_Market,1673
+E176,Environment,#339900,10.Cilincing,07_Downstream,12780
+E177,Environment,#339900,10.Cilincing,07_Downstream,38
+E178,Environment,#339900,10.Cilincing,07_Downstream,5276
+E179,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,1426
+E180,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,4663
+E181,Environment,#339900,14.Pasar Deprok,03_Market,-
+E182,Environment,#339900,15.Pasar Ciplak,03_Market,2171
+E183,Environment,#339900,15.Pasar Ciplak,03_Market,10
+E184,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,410
+E185,Environment,#339900,17.Outlet Persahabatan,09_Hospital wasterwater outlet,155
+E186,Environment,#339900,4.Kali Molek,05_Upstream,410
+E187,Environment,#339900,15.Pasar Ciplak,03_Market,155
+E188,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,410
+E189,Environment,#339900,16.Inlet Persahabatan,08_Hospital wastewater inlet,48
+E60,Environment,#339900,4.Kali Molek,05_Upstream,48
+E61,Environment,#339900,5.Kali Sunter,06_Midstream,8676
+E62,Environment,#339900,6.Kranggan,05_Upstream,410
+E63,Environment,#339900,6.Kranggan,05_Upstream,10
+E64,Environment,#339900,6.Kranggan,05_Upstream,10
+E65,Environment,#339900,8.Pasar Sawah Barat,03_Market,101
+E66,Environment,#339900,9.Kali Sindang,07_Downstream,155
+E67,Environment,#339900,10.Cilincing,07_Downstream,6707
+E68,Environment,#339900,11.BKT,07_Downstream,44
+E69,Environment,#339900,11.BKT,07_Downstream,2562
+E70,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,10338
+E71,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,48
+E72,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,1285
+E73,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,6707
+E74,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,155
+E75,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,-
+E76,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,196
+E77,Environment,#339900,15.Pasar Ciplak,03_Market,752
+E78,Environment,#339900,4.Kali Molek,05_Upstream,2607
+E79,Environment,#339900,4.Kali Molek,05_Upstream,38
+E80,Environment,#339900,4.Kali Molek,05_Upstream,101
+E81,Environment,#339900,6.Kranggan,05_Upstream,10
+E82,Environment,#339900,7.Pasar Pondok Bambu,03_Market,744
+E83,Environment,#339900,7.Pasar Pondok Bambu,03_Market,155
+E84,Environment,#339900,9.Kali Sindang,07_Downstream,43
+E85,Environment,#339900,9.Kali Sindang,07_Downstream,11146
+E86,Environment,#339900,10.Cilincing,07_Downstream,1266
+E87,Environment,#339900,10.Cilincing,07_Downstream,752
+E88,Environment,#339900,10.Cilincing,07_Downstream,11749
+E89,Environment,#339900,11.BKT,07_Downstream,1722
+E90,Environment,#339900,11.BKT,07_Downstream,69
+E91,Environment,#339900,12.RPHU Rawa Kepiting,04_Slaughtherhouse,156
+E92,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,58
+E93,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,410
+E94,Environment,#339900,13.RPH Pulogadung,04_Slaughtherhouse,1011
+E95,Environment,#339900,14.Pasar Deprok,03_Market,752
+E96,Environment,#339900,15.Pasar Ciplak,03_Market,10
+E97,Environment,#339900,17.Outlet Persahabatan,09_Hospital wasterwater outlet,6448
+E98,Environment,#339900,17.Outlet Persahabatan,09_Hospital wasterwater outlet,43
+E99,Environment,#339900,4.Kali Molek,05_Upstream,3580
+H191,Unknown,#000000,Unknown,Unknown,44
+H192,Unknown,#000000,Unknown,Unknown,44
+H193,Human,#336699,1.PKM Jatinegara,02_Community,58
+H194,Human,#336699,1.PKM Jatinegara,02_Community,949
+H195,Human,#336699,1.PKM Jatinegara,02_Community,2461
+H196,Human,#336699,1.PKM Jatinegara,02_Community,155
+H197,Human,#336699,1.PKM Jatinegara,02_Community,720
+H198,Human,#336699,1.PKM Jatinegara,02_Community,88
+H199,Human,#336699,1.PKM Jatinegara,02_Community,48
+H200,Human,#336699,2.RSCM,01_Hospital,38
+H202,Human,#336699,2.RSCM,01_Hospital,58
+H203,Human,#336699,2.RSCM,01_Hospital,131
+H204,Human,#336699,2.RSCM,01_Hospital,
+H205,Human,#336699,2.RSCM,01_Hospital,127
+H206,Human,#336699,2.RSCM,01_Hospital,131
+H207,Human,#336699,2.RSCM,01_Hospital,131
+H208,Human,#336699,1.PKM Jatinegara,02_Community,
+H209,Human,#336699,1.PKM Jatinegara,02_Community,2179
+H210,Human,#336699,1.PKM Jatinegara,02_Community,2179
+H241_S1,Human,#336699,2.RSCM,01_Hospital,131
+H243_S3,Human,#336699,2.RSCM,01_Hospital,10
+H244_S4,Human,#336699,2.RSCM,01_Hospital,131
+H246_S6,Human,#336699,2.RSCM,01_Hospital,127
+H247_S7,Human,#336699,2.RSCM,01_Hospital,
+H248_S8,Human,#336699,2.RSCM,01_Hospital,405
+H250_S9,Human,#336699,2.RSCM,01_Hospital,131
+H252_S11,Human,#336699,2.RSCM,01_Hospital,69
+H253_S12,Human,#336699,2.RSCM,01_Hospital,117
+H254_S13,Human,#336699,2.RSCM,01_Hospital,131
+H256_S14,Human,#336699,2.RSCM,01_Hospital,1193
+H258_S15,Human,#336699,2.RSCM,01_Hospital,7401
+H260_S17,Human,#336699,2.RSCM,01_Hospital,405
+H261_S18,Human,#336699,2.RSCM,01_Hospital,405
+H262_S19,Human,#336699,2.RSCM,01_Hospital,767
+H265_S20,Human,#336699,2.RSCM,01_Hospital,1193
+H266_S21,Human,#336699,2.RSCM,01_Hospital,12
+H268_S23,Human,#336699,2.RSCM,01_Hospital,683
+H270_S24,Human,#336699,2.RSCM,01_Hospital,131
+H276_S22,Human,#336699,2.RSCM,01_Hospital,-
+Reference,E.coli_ref,#FF8360,Isolate,Reference,
