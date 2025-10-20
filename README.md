@@ -20,7 +20,8 @@ The code used in the analysis is linked below for the **Geospatial mapping of wa
 
 ### Figure 5A - [R markdown - ANI/SNP matrix for specific STs](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3A_ANI_SNP_matrix_for_specific_STs.html)
 
-### Figure 5B - [R markdown - Geospatial plotting ANI strain distance](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
+### Figure 5B - [R markdown - Geospatial plotting ANI strain distances](https://rngoodman.github.io/trycycle-ESBL-E-jakarta/code/Fig_3B_Geospatial_plotting_ANI_strain_distance_Jakarta_Indonesia.html)
+
 
 
 
